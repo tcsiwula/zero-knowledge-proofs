@@ -12,3 +12,4 @@ proof
 generateKeyPair
 generateProof
 node_modules/
+.idea/
